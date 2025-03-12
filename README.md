@@ -1,3 +1,3 @@
 # Miniproject
 
-It is created by html and css.
+It is a webpage created by html and css.
